@@ -26,5 +26,7 @@
 [PDF](https://arxiv.org/pdf/1706.03762.pdf)
 
 # 工具
-- langchain
-https://github.com/hwchase17/langchain
+- [langchain](https://github.com/hwchase17/langchain)
+
+# 解读
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
