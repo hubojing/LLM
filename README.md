@@ -1,7 +1,9 @@
 # LLM
-大模型时代，学就是了。
+大模型
 
 # 论文 & 模型
+- ChatGLM2
+[CODE](https://github.com/THUDM/ChatGLM2-6B)
 - LLaMA: Open and Efficient Foundation Language Models
 [PDF](https://arxiv.org/pdf/2302.13971)
 [CODE](https://github.com/facebookresearch/llama)
