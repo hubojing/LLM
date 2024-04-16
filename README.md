@@ -4,6 +4,9 @@
 # 书籍
 - [大预言模型](https://llmbook-zh.github.io/)
 
+# 评测
+- [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
+
 # 论文 & 模型
 - ChatGLM2
 [CODE](https://github.com/THUDM/ChatGLM2-6B)
