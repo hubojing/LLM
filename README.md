@@ -1,5 +1,8 @@
 # LLM
-大模型
+大模型自用资料。
+
+# 书籍
+- [大预言模型](https://llmbook-zh.github.io/)
 
 # 论文 & 模型
 - ChatGLM2
