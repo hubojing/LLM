@@ -1,6 +1,10 @@
 # LLM
 大模型自用资料。
 
+# Transformer原理
+- [transformer-explainer](https://poloclub.github.io/transformer-explainer/)
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+
 # 书籍
 - [大预言模型](https://llmbook-zh.github.io/)
 
@@ -35,6 +39,3 @@
 
 # 工具
 - [langchain](https://github.com/hwchase17/langchain)
-
-# 解读
-- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
