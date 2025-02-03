@@ -1,17 +1,11 @@
 # LLM
 大模型自用资料。
 
-# Transformer原理
-- [transformer-explainer](https://poloclub.github.io/transformer-explainer/)
-- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
-
-# 书籍
-- [大预言模型](https://llmbook-zh.github.io/)
-
-# 评测
-- [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
-
 # 论文 & 模型
+- DeepSeek-R1: Incentivizing Reasoning Capability in LLMs viaReinforcement Learning  https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf
+- DeepSeek-V3 Technical Report  https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf
+- DeepSeek-Coder: When the Large Language Model Meets Programming - The Rise of Code Intelligence  https://arxiv.org/pdf/2401.14196
+
 - ChatGLM2
 [CODE](https://github.com/THUDM/ChatGLM2-6B)
 - LLaMA: Open and Efficient Foundation Language Models
@@ -37,5 +31,15 @@
 - Transformers
 [PDF](https://arxiv.org/pdf/1706.03762.pdf)
 
+# Transformer原理
+- transformer-explainer  https://poloclub.github.io/transformer-explainer
+- The Illustrated Transformer  http://jalammar.github.io/illustrated-transformer/
+- 
 # 工具
 - [langchain](https://github.com/hwchase17/langchain)
+
+# 书籍
+- [大预言模型](https://llmbook-zh.github.io/)
+
+# 评测
+- [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
