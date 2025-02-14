@@ -2,10 +2,15 @@
 大模型自用资料。
 
 # 论文 & 模型
+## deepseek
 - DeepSeek-VL2: https://github.com/deepseek-ai/DeepSeek-VL2/blob/main/DeepSeek_VL2_paper.pdf  https://arxiv.org/pdf/2412.10302
 - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs viaReinforcement Learning  https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf
 - DeepSeek-V3 Technical Report  https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf
 - DeepSeek-Coder: When the Large Language Model Meets Programming - The Rise of Code Intelligence  https://arxiv.org/pdf/2401.14196
+
+## o1
+- let's verify step by step: https://arxiv.org/pdf/2305.20050
+- Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters: https://arxiv.org/pdf/2408.03314
 
 - ChatGLM2
 [CODE](https://github.com/THUDM/ChatGLM2-6B)
