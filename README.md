@@ -12,7 +12,7 @@
 - let's verify step by step: https://arxiv.org/pdf/2305.20050
 - Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters: https://arxiv.org/pdf/2408.03314
   
- 
+## 其它
 - ChatGLM2
 [CODE](https://github.com/THUDM/ChatGLM2-6B)
 - LLaMA: Open and Efficient Foundation Language Models
