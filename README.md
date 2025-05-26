@@ -1,6 +1,9 @@
 # LLM
 大模型自用资料。
 
+# 前沿解读
+- https://magazine.sebastianraschka.com/
+
 # 论文 & 模型
 ## deepseek
 - DeepSeek-VL2: https://github.com/deepseek-ai/DeepSeek-VL2/blob/main/DeepSeek_VL2_paper.pdf  https://arxiv.org/pdf/2412.10302
