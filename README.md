@@ -17,6 +17,9 @@
 ## Qwen
 - Qwen3: https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf  
 
+## Gemini
+- Gemini 2.5: https://link.zhihu.com/?target=https%3A//storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf
+
 ## Kimi
 - K2: https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf  
 
