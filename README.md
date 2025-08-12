@@ -23,6 +23,9 @@
 ## Kimi
 - K2: https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf  
 
+## GLM
+- GLM-4.5: https://arxiv.org/abs/2508.06471
+
 ## o1
 - let's verify step by step: https://arxiv.org/pdf/2305.20050
 - Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters: https://arxiv.org/pdf/2408.03314
