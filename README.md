@@ -12,7 +12,8 @@
 - DeepSeek-VL2: https://github.com/deepseek-ai/DeepSeek-VL2/blob/main/DeepSeek_VL2_paper.pdf  https://arxiv.org/pdf/2412.10302  
 - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs viaReinforcement Learning  https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf  
 - DeepSeek-V3 Technical Report  https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf  
-- DeepSeek-Coder: When the Large Language Model Meets Programming - The Rise of Code Intelligence  https://arxiv.org/pdf/2401.14196  
+- DeepSeek-Coder: When the Large Language Model Meets Programming - The Rise of Code Intelligence  https://arxiv.org/pdf/2401.14196
+- DeepSeek LLM: Scaling Open-Source Language Models with Longtermism [link](https://arxiv.org/abs/2401.02954)
 
 ## Qwen
 - Qwen3: https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf  
