@@ -9,12 +9,28 @@
 
 # 论文 & 模型 & 技术报告
 ## deepseek
+### 基座模型
 - DeepSeek-VL2: https://github.com/deepseek-ai/DeepSeek-VL2/blob/main/DeepSeek_VL2_paper.pdf  https://arxiv.org/pdf/2412.10302  
 - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs viaReinforcement Learning  https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf  
 - DeepSeek-V3 Technical Report  https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf  
+- DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model  https://arxiv.org/abs/2405.04434
+- DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models  https://arxiv.org/abs/2401.06066
+- DeepSeek LLM: Scaling Open-Source Language Models with Longtermism https://arxiv.org/abs/2401.02954
+### 代码模型
+- DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence  https://arxiv.org/abs/2406.11931
 - DeepSeek-Coder: When the Large Language Model Meets Programming - The Rise of Code Intelligence  https://arxiv.org/pdf/2401.14196
-- DeepSeek LLM: Scaling Open-Source Language Models with Longtermism [link](https://arxiv.org/abs/2401.02954)
-
+### 数学推理
+- DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models  https://arxiv.org/abs/2402.03300
+- DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning
+### 定理证明
+- DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via RL for Subgoal Decomposition
+- DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search  https://arxiv.org/abs/2408.08152
+- DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data  https://arxiv.org/abs/2405.14333
+### 多模态
+- DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding  https://arxiv.org/abs/2412.10302
+- DeepSeek-VL: Towards Real-World Vision-Language Understanding
+### 其它
+- Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention  https://arxiv.org/abs/2502.11089
 ## Qwen
 - Qwen3: https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf  
 
