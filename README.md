@@ -28,7 +28,7 @@
 - DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data  https://arxiv.org/abs/2405.14333
 ### 多模态
 - DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding  https://arxiv.org/abs/2412.10302
-- DeepSeek-VL: Towards Real-World Vision-Language Understanding
+- DeepSeek-VL: Towards Real-World Vision-Language Understanding  https://arxiv.org/abs/2403.05525
 ### 其它
 - Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention  https://arxiv.org/abs/2502.11089
 ## Qwen
