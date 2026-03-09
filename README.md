@@ -23,7 +23,7 @@
 - DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models  https://arxiv.org/abs/2402.03300
 - DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning  https://arxiv.org/abs/2511.22570
 ### 定理证明
-- DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via RL for Subgoal Decomposition
+- DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via RL for Subgoal Decomposition  https://arxiv.org/abs/2504.21801
 - DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search  https://arxiv.org/abs/2408.08152
 - DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data  https://arxiv.org/abs/2405.14333
 ### 多模态
