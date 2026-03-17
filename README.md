@@ -76,9 +76,7 @@
 # Transformer原理
 - transformer-explainer  https://poloclub.github.io/transformer-explainer
 - The Illustrated Transformer  http://jalammar.github.io/illustrated-transformer/
-- 
-# 工具
-- [langchain](https://github.com/hwchase17/langchain)
+  
 
 # 书籍
 - [大语言模型](https://llmbook-zh.github.io/)
