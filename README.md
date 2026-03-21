@@ -37,6 +37,22 @@
 ## Gemini
 - Gemini 2.5: https://link.zhihu.com/?target=https%3A//storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf
 
+## GPT
+- GPT 5.0
+[PDF](https://arxiv.org/abs/2601.03267)
+- GPT 4o
+[PDF](https://arxiv.org/abs/2410.21276)
+- GPT 4.0
+[PDF](https://arxiv.org/abs/2303.08774)
+- InstructGPT
+[PDF](https://arxiv.org/pdf/2203.02155)
+- GPT 3.0
+[PDF](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
+- GPT 2.0
+[PDF](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+- GPT 1.0
+[PDF](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
+
 ## Kimi
 - K2: https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf  
 
@@ -46,7 +62,7 @@
 ## o1
 - let's verify step by step: https://arxiv.org/pdf/2305.20050
 - Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters: https://arxiv.org/pdf/2408.03314
-  
+
 ## 其它
 - ChatGLM2
 [CODE](https://github.com/THUDM/ChatGLM2-6B)
@@ -57,17 +73,10 @@
 [CODE](https://github.com/THUDM/ChatGLM-6B)
 - PaLM: Scaling Language Modeling with Pathways
 [PDF](https://arxiv.org/pdf/2204.02311.pdf)
-- InstructGPT
-[PDF](https://arxiv.org/pdf/2203.02155)
-- GPT 3.0
-[PDF](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 - T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
 [PDF](https://arxiv.org/pdf/1910.10683.pdf)
 [CODE](https://github.com/google-research/text-to-text-transfer-transformer)
-- GPT 2.0
-[PDF](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
-- GPT 1.0
-[PDF](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
+
 - BERT
 [PDF](https://aclanthology.org/N19-1423.pdf)
 - Transformers
