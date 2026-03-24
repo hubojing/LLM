@@ -76,9 +76,6 @@
 - T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
 [PDF](https://arxiv.org/pdf/1910.10683.pdf)
 [CODE](https://github.com/google-research/text-to-text-transfer-transformer)
-
-- BERT
-[PDF](https://aclanthology.org/N19-1423.pdf)
 - Transformers
 [PDF](https://arxiv.org/pdf/1706.03762.pdf)
 
