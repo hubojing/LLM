@@ -4,8 +4,9 @@
 # 前沿解读
 - https://magazine.sebastianraschka.com/
 
-# GGUF模型下载
+# 模型下载
 - https://modelscope.cn/models
+- https://hf-mirror.com/models
 
 # 论文 & 模型 & 技术报告
 ## deepseek
