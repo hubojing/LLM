@@ -55,6 +55,7 @@
 [PDF](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
 
 ## Kimi
+- K2.5: https://arxiv.org/abs/2602.02276
 - K2: https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf  
 
 ## GLM
