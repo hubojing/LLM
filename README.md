@@ -33,6 +33,7 @@
 ### 其它
 - Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention  https://arxiv.org/abs/2502.11089
 ## Qwen
+- Qwen3-VL Technical Report：https://arxiv.org/abs/2511.21631
 - Qwen3: https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf  
 
 ## Gemini
