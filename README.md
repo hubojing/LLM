@@ -74,11 +74,6 @@
 [CODE](https://github.com/facebookresearch/llama)
 - ChatGLM
 [CODE](https://github.com/THUDM/ChatGLM-6B)
-- PaLM: Scaling Language Modeling with Pathways
-[PDF](https://arxiv.org/pdf/2204.02311.pdf)
-- T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
-[PDF](https://arxiv.org/pdf/1910.10683.pdf)
-[CODE](https://github.com/google-research/text-to-text-transfer-transformer)
 - Transformers
 [PDF](https://arxiv.org/pdf/1706.03762.pdf)
 
