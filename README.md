@@ -40,8 +40,7 @@
 - Gemini 2.5: https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf
 
 ## GPT
-- GPT 5.0
-[PDF](https://arxiv.org/abs/2601.03267)
+- GPT 5.0： https://arxiv.org/abs/2601.03267
 - GPT 4o
 [PDF](https://arxiv.org/abs/2410.21276)
 - GPT 4.0
