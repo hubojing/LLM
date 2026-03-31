@@ -41,8 +41,7 @@
 
 ## GPT
 - GPT 5.0： https://arxiv.org/abs/2601.03267
-- GPT 4o
-[PDF](https://arxiv.org/abs/2410.21276)
+- GPT 4o： https://arxiv.org/abs/2410.21276
 - GPT 4.0
 [PDF](https://arxiv.org/abs/2303.08774)
 - InstructGPT
