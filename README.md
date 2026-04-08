@@ -43,8 +43,7 @@
 - GPT 5.0： https://arxiv.org/abs/2601.03267
 - GPT 4o： https://arxiv.org/abs/2410.21276
 - GPT 4.0: https://arxiv.org/abs/2303.08774
-- InstructGPT
-[PDF](https://arxiv.org/pdf/2203.02155)
+- InstructGPT https://arxiv.org/pdf/2203.02155
 - GPT 3.0
 [PDF](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 - GPT 2.0
