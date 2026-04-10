@@ -44,8 +44,7 @@
 - GPT 4o： https://arxiv.org/abs/2410.21276
 - GPT 4.0: https://arxiv.org/abs/2303.08774
 - InstructGPT https://arxiv.org/pdf/2203.02155
-- GPT 3.0
-[PDF](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
+- GPT 3.0 https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf
 - GPT 2.0
 [PDF](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 - GPT 1.0
