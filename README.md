@@ -46,8 +46,7 @@
 - InstructGPT https://arxiv.org/pdf/2203.02155
 - GPT 3.0 https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf
 - GPT 2.0 https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
-- GPT 1.0
-[PDF](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
+- GPT 1.0 https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf
 
 ## Kimi
 - K2.5: https://arxiv.org/abs/2602.02276
