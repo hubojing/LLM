@@ -62,8 +62,7 @@
 ## 其它
 - ChatGLM2
 [CODE](https://github.com/THUDM/ChatGLM2-6B)
-- LLaMA: Open and Efficient Foundation Language Models
-[PDF](https://arxiv.org/pdf/2302.13971)
+- LLaMA: Open and Efficient Foundation Language Models https://arxiv.org/pdf/2302.13971
 [CODE](https://github.com/facebookresearch/llama)
 - ChatGLM
 [CODE](https://github.com/THUDM/ChatGLM-6B)
