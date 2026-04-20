@@ -66,8 +66,7 @@
 [CODE](https://github.com/facebookresearch/llama)
 - ChatGLM
 [CODE](https://github.com/THUDM/ChatGLM-6B)
-- Transformers
-[PDF](https://arxiv.org/pdf/1706.03762.pdf)
+- Transformers https://arxiv.org/pdf/1706.03762.pdf
 
 # Transformer原理
 - transformer-explainer  https://poloclub.github.io/transformer-explainer
