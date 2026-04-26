@@ -11,6 +11,7 @@
 # 论文 & 模型 & 技术报告
 ## deepseek
 ### 基座模型
+- DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf
 - DeepSeek-VL2: https://github.com/deepseek-ai/DeepSeek-VL2/blob/main/DeepSeek_VL2_paper.pdf  https://arxiv.org/pdf/2412.10302  
 - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs viaReinforcement Learning  https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf  
 - DeepSeek-V3 Technical Report  https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf  
