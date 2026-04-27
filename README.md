@@ -77,5 +77,4 @@
 # 书籍
 - 大语言模型 https://llmbook-zh.github.io/
 
-# 评测
-- A Survey on Evaluation of Large Language Models https://arxiv.org/abs/2307.03109
+
