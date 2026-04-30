@@ -1,6 +1,9 @@
 # LLM
 大模型自用资料。
 
+# Agent
+- ReAct: Synergizing Reasoning and Acting in Language Models  https://arxiv.org/abs/2210.03629
+
 # 前沿解读
 - https://magazine.sebastianraschka.com/
 
