@@ -3,6 +3,7 @@
 
 # Agent
 - ReAct: Synergizing Reasoning and Acting in Language Models  https://arxiv.org/abs/2210.03629
+- Reflexion: Language Agents with Verbal Reinforcement Learning  https://arxiv.org/abs/2303.11366
 
 # 前沿解读
 - https://magazine.sebastianraschka.com/
