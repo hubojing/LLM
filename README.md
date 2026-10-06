@@ -2,11 +2,12 @@
 大模型自用资料。
 
 # Agent
+- AgentGuide: https://adongwanai.github.io/AgentGuide/
 - ReAct: Synergizing Reasoning and Acting in Language Models  https://arxiv.org/abs/2210.03629
 - Reflexion: Language Agents with Verbal Reinforcement Learning  https://arxiv.org/abs/2303.11366
 - Toolformer: Language Models Can Teach Themselves to Use Tools https://arxiv.org/abs/2302.04761
 
-# 前沿解读
+# 解读
 - https://magazine.sebastianraschka.com/
 
 # 模型下载
