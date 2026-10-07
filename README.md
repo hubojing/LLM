@@ -3,6 +3,7 @@
 
 # Agent
 - AgentGuide: https://adongwanai.github.io/AgentGuide/
+- Scaling Managed Agents: Decoupling the brain from the hands  https://www.anthropic.com/engineering/managed-agents
 - ReAct: Synergizing Reasoning and Acting in Language Models  https://arxiv.org/abs/2210.03629
 - Reflexion: Language Agents with Verbal Reinforcement Learning  https://arxiv.org/abs/2303.11366
 - Toolformer: Language Models Can Teach Themselves to Use Tools https://arxiv.org/abs/2302.04761
