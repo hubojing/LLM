@@ -1,6 +1,9 @@
 # LLM
 大模型自用资料。
 
+# RSI
+- The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement  https://arxiv.org/abs/2609.11873
+
 # Agent
 - AgentGuide: https://adongwanai.github.io/AgentGuide/
 - Scaling Managed Agents: Decoupling the brain from the hands  https://www.anthropic.com/engineering/managed-agents
