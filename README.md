@@ -4,6 +4,7 @@
 # RSI
 - The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement  https://arxiv.org/abs/2609.11873
 - Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops  https://arxiv.org/abs/2607.07663
+- Dream-RSI: Recursive Self-Improvement through Evolving Worlds
 
 # Agent
 - AgentGuide: https://adongwanai.github.io/AgentGuide/
